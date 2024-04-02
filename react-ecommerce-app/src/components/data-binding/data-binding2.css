@@ -1,0 +1,8 @@
+.list-box {
+ border: 1px solid grey;
+ padding: 10px;
+ width: 200px;
+ height: 80px;
+ overflow: auto;
+ 
+}
